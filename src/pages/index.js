@@ -1,15 +1,23 @@
 import React from 'react';
+import Layout from '../layout';
+import styled from 'styled-components';
+import Button from '../styled-components/button';
+
+const Title = styled.h1`
+  color: ${props => props.theme.primary};
+`
 
 const IndexPage = () => {
 
   return(
-    <select onChange={e => console.log(e)}>
-      <option selected="selected" value="user" data-type="enum">User</option>
-      <option value="HQ center" data-type="text">HQ Center</option>
-      <option value="business unit" data-type="boolean">Business Unit</option>
-      <option value="note" data-type="date">Try on </option>
-      <option value="con" data-type="number">Con</option>
-    </select>
+    <Layout >
+      <div>
+        <Title>
+          Index page
+        </Title>
+        <Button>Start</Button>
+      </div>
+    </Layout>
   )
 }
 

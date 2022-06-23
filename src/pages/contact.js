@@ -1,15 +1,15 @@
 import React from 'react';
 import Layout from '../layout';
 
-const about = () => {
+const Contact = () => {
 
   return(
     <Layout>
       <div>
-        <h1>About</h1>
+        <h1>Contact</h1>
       </div>
     </Layout>
   )
 }
 
-export default about;
+export default Contact;
