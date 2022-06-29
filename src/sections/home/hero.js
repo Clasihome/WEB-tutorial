@@ -9,6 +9,7 @@ const Hero = styled.div`
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
+  margin-bottom: 3rem;
 `
 const HeroInfoContainer = styled.div`
   height: 100vh;

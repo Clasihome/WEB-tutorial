@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="40"
+   width="40"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="bath.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="836"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="5.9"
+     inkscape:cx="-1.9491525"
+     inkscape:cy="20"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M11.458 15.042q-1.291 0-2.208-.938-.917-.937-.917-2.229t.917-2.208q.917-.917 2.208-.917 1.292 0 2.23.917.937.916.937 2.208 0 1.292-.937 2.229-.938.938-2.23.938Zm-3.5 21.625q-.791 0-1.312-.438-.521-.437-.521-1.229Q5 35 4.167 34.167q-.834-.834-.834-1.959V21.667h5v-1.209q0-1.5 1.063-2.541 1.062-1.042 2.562-1.042.792 0 1.5.292.709.291 1.25.875l2.25 2.5q.292.333.604.625.313.291.646.5H30V7.875q0-.75-.479-1.25t-1.229-.5q-.334 0-.667.083-.333.084-.583.334l-2.167 2.166q.208.709.083 1.417-.125.708-.5 1.333l-4.375-4.25q.667-.416 1.396-.541.729-.125 1.479.166l2.125-2.125q.625-.625 1.459-1 .833-.375 1.75-.375 1.916 0 3.208 1.313 1.292 1.312 1.292 3.229v13.792h3.875v10.541q0 1.125-.834 1.959Q35 35 33.875 35q0 .792-.521 1.229-.521.438-1.312.438Zm-1.833-4.459h27.75v-7.75H6.125v7.75Zm27.75 0H6.125Z"
+     id="path2"
+     style="fill:#72ae18;fill-opacity:1" />
+</svg>

@@ -6,7 +6,7 @@ import Footer from './footer';
 const theme = {
   base: "#333333",
   titleColor: "#346078",
-  gray: "#884444",
+  gray: "gray",
   primary: "#72ae18",
 }
 
